@@ -4,4 +4,4 @@
 :HL["/sota-profile.JPG","image"]
 :HL["https://v5.airtableusercontent.com/v3/u/54/54/1781107200000/n-Hoc0WrE_WHQ_7jgW8Sbg/HIiXCr3gEXRUSavOfUPg9HVdcW9OuVZ3YunxrE1Thw5GQzIfISrWqpws3tKjyTudwwmCkvl1IYsSDFkowMqFx0ey3f7I_mjqfJLTSueEI8xFivVJs2ZisUY9JxWTOrEouAZNZflwY59RLSq-Xq9BpGnk-ecc8HNtPVmozol1pxI/oYENyloLS8o0047wre2hSYots1sky0EG-say2bzDjRw","image"]
 :HL["/morioku-bg.png","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"PiNz6eqoib2tu-D76b8Rh"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"Uwmrth9lvEUW-y7jCI3n_"}
